@@ -1,0 +1,1530 @@
+title,text,tags
+10/07/2021,this is the body with a link back to the [[Calendar]],Date
+11/07/2021,this is the body with a link back to the [[Calendar]],Date
+13/07/2021,this is the body with a link back to the [[Calendar]],Date
+14/07/2021,this is the body with a link back to the [[Calendar]],Date
+22/07/2021,this is the body with a link back to the [[Calendar]],Date
+24/07/2021,this is the body with a link back to the [[Calendar]],Date
+30/07/2021,this is the body with a link back to the [[Calendar]],Date
+A Matter of Honour or Blood,"When you cross swords for honour, roll +STR or +DEX.
+
+* 10+, hold 3
+* 7-9 hold 2 and the enemy gains a touch on you. 
+*On a 6-, choose one of the following: 
+** You took the enemy's normal damage roll, and lost the duel.
+** You dealt your normal damage roll, and offend some witness for not showing restraint.
+
+You may spend hold on the following:
+
+* Draw a small amount of blood, dealing 1 point of damage (2 hold).
+* Avoid the enemy's strikes (1 hold)
+* Touch the opponent without drawing blood (sometimes duels are to a certain number of touches, rather than blood)
+",Move
+"A snake, a snake, Oooh, it's a snake!","//When you slither and hiss angrily// and spend 1 hold roll +Cha
+
+* 12+ - Even the brave and the stupid are wary and will avoid you if they can.
+* 10-11 - Only the brave and the stupid will engage you in melee.
+* 7-9 - The Intelligent know you are bluffing, enemies of less than human intelligence will avoid you in melee.
+* 6- It did not work, and now they know you are not that scary, take a -1 moving forward to THIS MOVE against the same targets. GM Move.",Move Snake Wildlife
+Abernath,,Xavier Castle Urban Principal
+Acolytes of the Great Flame,"have infected the [[Empire of Anligit]]
+
+<$list filter=""[tag[Acolytes of the Great Flame]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Organisation Cobehot [[God's Foothills]] [[Empire of Anligit]] Cult
+Alkonna,,Town [[Confederacy of the Larne]] Urban Cobehot
+Altanaza,on the coast,[[Empire of Zantera]] Urban Town Lenara
+Amphibious,//When you plunge beneath the water// and spend 1 hold - As [[Drowning]] except you are always considered to have taken a deep breath.,Move Wildlife
+Anallate Castle,on the Western side of the Southern island of [[Lenara]],Castle Lenara Urban [[Empire of Zantera]]
+Ancient Necromancer,,Character Kemzemkex
+Anglemarr,,Forest Lenara Geography
+Anglit-oku,found on the eastern edge of the large island near the Savanna [[Peninsula Plains]],Town Urban Gronzezzeg Cobehot
+Anti-Onuk Alliance,"Driven out by the Onuk Bandits
+
+!!! Urban Locations
+<$list filter=""[tag[Anti-Onuk Alliance]tag[Urban]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>",[[Minor Faction]]
+Arlinia,"""""""Also known as [[Zanova]]
+
+Settlers left the [[Empire of Zantera]] and settled on the other side of the island of [[Lenara]] and claimed their independence. Consequently they dont get on great with the [[Empire of Zantera]]. They were attacked by the [[Empire of Zantera]] which further damaged their relationship. (Now ""Very Hostile"").""""""",Town Lenara Urban [[Zanteran Republic]]
+Arpetula Desert,Northen desert on the smaller of the two islands,Desert Geography Cobehot
+Backbiter,"A Dagger <<GMNote ""that deals an extra +1D4 if the opponent is unaware of the attack, On a -6 or lower, you also take 1D4 damage ignoring armour. Looking into the items history will reveal that it was created for an assassination attempt against an powerful emperor, as the emperor died, he cursed the assassin as well as the blade and the curse remains to this day."">>",Object
+Balvar Muzrald," older man (human) who favours his muscle more than his magic, completely disagrees with the 'cult of flames' (evil nature) large muscle hairy ugly hoomi",Character
+Bay,"<$list filter=""[tag[Bay]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Bay of Narlon,"The Bay of Narlon is a vast expanse of tranquil blue waters, encompassing the [[River Rath]], [[River Larne]], and the surrounding areas. The mouth of the [[River Rath]] is home to the Halfling village of [[Silverfin]], while the mouth of the [[River Larne]] is home to [[Silverlight]], the capital city of the Halflings. Further along the bay lies the town of [[Anglit-oku]], home to a thriving Kobold population, and in the other direction is the Halfling's castle, [[The Overlook]]. 
+
+The Bay of Narlon is renowned for its abundant marine life, and has long been a favored fishing spot for locals and visitors alike. Its clear waters provide a home to multiple varieties of fish, and its serene beauty brings joy to all who visit it. Filled with both natural beauty and bustling with activity, the Bay of Narlon is a sight to behold.",Bay Cobehot Geography
+Beth,Northern Coast,Urban Town Xavier Principal
+Breeonel,"on the southern coast of the southern island of [[Lenara]], was annexed by [[Empire of Zantera]].  Even split pop of Humans and Elves (stratified with elves above)",Lenara Town Urban [[Empire of Zantera]]
+Brjaam Orhim,Town found on is island of [[Principal]] on the shore of [[Hlegu Brjaam]] is in the [[League of Glang]],Town Principal Urban [[League of Glang]]
+Calendar,"<<simplecalendar mycalendar yearState:""MyStateTiddler!!year"" monthState:""MyStateTiddler!!month"" startingDay:""0"">>
+
+<$list filter=""[tag[Date]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Calendar
+Calendar Setup,"The Calendar was originally taken from [[here|http://simplecalendar.tiddlyspot.com/]]
+
+You can Draw a Calendar like this;
+
+<<simplecalendar mycalendar yearState:""MyStateTiddler!!year"" monthState:""MyStateTiddler!!month"" startingDay:""0"">>
+
+You can find the list of files in the plugin [[here|$:/plugins/frd/simplecalendar]]
+
+To change the Names of the Days of the Week or the Names of the Months, go [[Here|$:/plugins/frd/simplecalendar/CalendarConfigDefault]] its currently locked to 7 day's a week and 12 months a year.
+
+Month Lengths can be found [[Here|$:/plugins/frd/simplecalendar/simplecalendarUtils.js]] along with Leap year stuff
+
+Formatting of the Calendar (like highlighting the weekends) is done by click on the very small button on the bottom left (bottom right opens the help)
+
+",Calendar
+Canyon,"<$list filter=""[tag[Canyon]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Canyons of Cobeham,Found on the island of [[Cobehot]] on either side of the [[River Latch]] as it exists out to the sea.,Canyon Geography Cobehot
+Cas Kesmick,"young girl (human) timid and fearful wanting to be with family not ever be a wizard, brown hair and tall (everyones tall to a goblin)",Character
+Castle,"<$list filter=""[tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Cellaa Orhim,"On the moth of the river [[Zellaam]], they generally enjoy smoked fish.",[[League of Glang]] Principal Town Urban
+Character,"{{Player}}
+
+!!! NPC's
+<$list filter=""[tag[Character]!tag[Player]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+City of the Goddess,"Was previously the population of [[Marbledell]], the cultists hit a critical mass and abandoned [[Marbledell]] to form here. Upgraded to City.",Cobehot Urban [[The Ecclesiocracy of Flame]] City [[Acolytes of the Great Flame]]
+Cobehot,"South West.
+
+!!! Geography
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Bay]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Bay)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Savanna]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Savanna)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Swamp]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Swamp)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Hills]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Hills)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Lake]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Lake)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[River]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (River)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Forest]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Forest)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Mountain Range]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Mountain Range)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Desert]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Desert)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Jungle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Jungle)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Canyon]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Canyon)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Geography]tag[Volcano]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Volcano)<br/>
+</$list>
+
+!!! Urban
+<$list filter=""[tag[Cobehot]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village)<br/>
+</$list>
+<$list filter=""[tag[Cobehot]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle)<br/>
+</$list>
+
+!!! Misc
+<$list filter=""[tag[Cobehot]!tag[Urban]!tag[Geography]]+[sort[]]"">
+<$link><$view field=""title""/></$link> Tagged with: <$view field=""tags""/><br/>
+</$list>",Island
+Cobhaak Orhim,have their home eastern side of the walls of the [[Canyons of Cobeham]]. Upgraded to a city.,[[League of Glang]] Cobehot Urban City
+Confederacy of the Larne,"""""""
+Is an Alliance of [[Goblin]]'s.
+""""""
+
+!!! Urban Locations
+<$list filter=""[tag[Confederacy of the Larne]tag[Urban]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>",[[Minor Faction]]
+Dave,,Player Character Thursday GMNote
+Desert,"<$list filter=""[tag[Desert]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Desert of Death,,Kemzemkex Geography Desert
+Dobbie,<<NPCMacro>>,Character
+Don't You Know Who I Am?,"When you try to cite songs of past exploits or your reputation to gain favor with someone roll+Nothing.
+
+* On a 10+, they've heard the songs of your dauntless skill and bravery and are wowed by your reputation. Take +1 forward. Tell us what they've heard.
+* On a 7-9, choose one:
+** They've heard of you, but it wasn't in the most favorable light. Whatever you did, it was foolish/scandalous/embarrassing. Still, at least it was entertaining. Take +1 forward. Tell us what they've heard.
+** Your deed may be mighty, but your publicity needs some work. This person has never heard of you.
+* On 6-, they've heard of you, but it was nothing good. Perhaps they're an old rival stoking a grudge, or they've only heard of your brutal, murderous ways. Tell us what they know.﻿",Move
+Dramatis Personae,{{Character}},Home
+Drowning,"//When you plunge beneath the water//
+
+Hold Breath equal to CON mod+2 (minimum 1), instead If you take a deep breath first, hold Breath equal to CON mod+5 (min 3). 
+
+Each time you make a move (or the GM says), pick 1. (If in response to a move, it happens after.)
+
+* Spend 1 Breath
+* Mark a debility (that you haven’t marked yet)
+* Take your Last Breath",Move
+Druibar,"Town found on the Island of Silva, mostly [[Gnome]], Members of [[The Federation of the Sentinel]]. Was attacked by the [[Kingdom of Orlon]] and downgraded to a village.",Silva Urban [[The Federation of the Sentinel]] Village
+Drumbar,"Town found on the Island of Silva, mostly [[Gnome]], Members of [[The Federation of the Sentinel]]. Upgraded to City",Silva Urban [[The Federation of the Sentinel]] City
+Drumku,"Pirates Gnomes, with some lizards and kobolds. Destroyed by the [[Kingdom of Orlon]]
+
+<$list filter=""[tag[Drumku]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Silva Urban Pirate Ruins
+Drun Bal Hat Thar Kall,"rough translation: By Dur, come here again and you shall die and then we'll get nasty.
+",[[The Federation of the Sentinel]] Castle Urban Lenara
+Dwarf,"* [[Name Generator|https://www.fantasynamegenerators.com/dwarf_names.php]]
+* [[Languages]] Dwarven",Race
+Elf,"* [[Name Generator|https://www.fantasynamegenerators.com/elf_names.php]]
+* [[Languages]] Goblin",Race
+Empire of Anligit,"""""""
+Found mostly on the island of [[Cobehot]] and mostly [[Halfling]]
+[[Their Capital|Silverlight]] is found on the Eastern Coast north of the Estery of the [[River Larne]] on the island of [[Cobehot]]. 
+
+Attacked the Town of [[Cobhaak Orhim]] (Attacked with 4, defended with 6).
+""""""
+Alliance with : {{!!alliance}} <br/>
+Bad relationship with: {{!!bad}}<br/>
+At War with {{!!war}}<br/>
+
+!!! Urban Locations
+<$list filter=""[tag[Empire of Anligit]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Anligit]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Anligit]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Anligit]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Anligit]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle) (Population <$view field=""population""/>)<br/>
+</$list>",[[Major Faction]]
+Empire of Zantera,"""""""
+Found mostly on the island of [[Lenara]] and is mostly [[Elf]]'s.
+[[Their Capital|Malketh]] is on the southern coast of the Northern island.
+They have Hostile Relationship with the Hives of [[Strakara]].
+They have Very Hostile Relationship with the Hives of [[Xavier]].
+They have a Very Hostile with the City State of [[Arlinia]].
+They have a Trade Agreement with the [[Empire of Anligit]]. - Lost when they attacked [[Xavier]]
+They have an Alliance with the [[League of Glang]]
+Attacked [[Breeonel]] of the country of [[Xavier]] and ANEXED IT!
+Attacked [[Arlinia]] the City State! (attack 1, defence 4)
+""""""
+
+!!! Urban Locations
+<$list filter=""[tag[Empire of Zantera]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Zantera]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Zantera]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Zantera]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Empire of Zantera]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle) (Population <$view field=""population""/>)<br/>
+</$list>",[[Major Faction]]
+Erol,"[img[https://nalonar.eaglesroost.org/images/tokens/Erol.png]]
+
+See Also;
+
+<$list filter=""[tag[Erol]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+
+<<GMNote ""Possible Last Breath - Large colesium type, no more hats
+
+Ask about Instrument. make sure he includes it, and clothes into description.
+Ask about Bardic Law choice
+Ask about how his 'Arcane Art' manifests, how does it look, how does it sound.
+
+Was saved from a bar room brawl by [[Maisie Starhammer]] and now owes her.
+He was in a Bar and a Brawl started, not sure where but it started somewhere over there and all hell broke lose. He was hiding under a table, then made a brake for the door, as he neared the door someone hit him with a chair, the next thing he knew there was [[a dwarf|Maisie Starhammer]] stood over him protecting him from imminent bodily harm.
+
+He was in a tavern telling the story of [[The Battle of Okat-Oork]] however, when he told the story, he told of how the [[Okat Regulars]] were broken at the first charge of the Gnomes, it was at this point that [[Shol-Tak]] decided he was unable to sit back and allow these lies to spread any further, he stood up and gave Erol a piece of his mind. Subsequently, Erol is now weary of [[Shol-Tak]].
+
+[[Erol]] has heard of [[Tirgeth]] and his exploits as a merc in [[Gronzezzeg]] but all of the stories lack some of the detail he needs to turn it into a proper story, he is now determined to see one of [[Tirgeth]]'s exploits for himself.
+
+[[Lukk]] trusted me with a secret. The secret was that the relationship between the [[Usk Aulkhori]] Pirates and the [[Acolytes of the Great Flame]] is more than just basic commerce.
+
+Bond 5
+
+Bond 6
+
+"">>",Player Kobold Character Wednesday
+Faceted Black Gem,"This is the one that the [[Wednesday]] players found at the bottom of the shaft under the monastery. It is currently in the possession of [[Erol]].
+
+<<GMNote ""This one started with 44 charges of 139 and has absorbed the following charges;
+<ul>
+<li>6 from two burning brands.</li>
+</ul>
+<b>Its current Total is 50.</b>
+"">>
+
+{{Faceted Black Gem Generic}}",Object Erol Wednesday
+Faceted Black Gem Generic,"Faceted black Gem, Marquise Cut, About 2cm Inch long, about 1cm wide and about half a cm ""deep"".
+
+<<GMNote ""The gem can store X Power before it must be drained the art of which has been lost. Once it exceeds that amount of power it will crack on the first 6- roll of the person holding/carrying it producing a spider web like effect over its surface. From this point forwards anyone who uses any magic within Short suffers a -1 going forwards.
+The gem will gain power based on the following;
+<ul>
+<li>1 power for each day it is carried by someone with 'Magic'.</li>
+<li>1D4+Level for each spell cast by the person carrying it.</li>
+<li>1D4+Level for each spell targetted at the person carrying it.</li>
+<li>+Level for each spell used within 'Short' range.</li>
+</ul>
+<em>Cantrips and abilities like the Bard's Arcane Art or the Immolators Burning Brand count as level 0.
+</em>
+"">>",Object
+Falling,"When you fall…
+
+* a few feet (like off a table or a horse), take 1d4 damage
+* from a modest height (out a first story window, while climbing a tree), take 1d8 damage
+* from a serious height (off a roof, down a ravine), take 1d10 damage (ignores armour)
+* onto something soft and yielding (water, pillows), roll twice and take the lower roll
+* onto something hard, jagged (rocks, stairs), roll twice and take the higher roll
+* onto something sharp and pointy, take an extra die of messy damage
+* from a great height (off a cliff, from the ramparts), roll Last Breath
+
+See [[Falling... Catch yourself]]",Move
+Falling... Catch yourself,"When you are [[Falling]] if you try to catch yourself as you fall, roll +STR or +DEX (your choice):
+
+* on a 10+, phew, got it;
+* on a 7-9, you catch yourself but pick 1
+** Something you were carrying falls and is lost; ask the GM what it was
+** Your grip is slipping or your handhold is crumbling; think fast!
+** Freeze up, holding on for dear life until you overcome your fear
+* on a 6-, down you go.
+",Move
+Farfood Fellowship,"!!! Urban Locations
+<$list filter=""[tag[Farfood Fellowship]tag[Urban]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>",[[Minor Faction]]
+Fishing,"When you spend some time fishing in a spot where the fish are biting, roll+WIS.
+
+* on a 10+, you take in enough to feed yourself and choose 1 additional:
+** Feed all your companions as well (These count as rations if you ""Make Camp"" the same day.
+** You gain a new understanding of a companion that fishes with you – you can rewrite a bond you have with them, or they can rewrite a bond they have with you
+** You become familiar with the countryside and wildlife around you – take +1 ongoing to whichever role you choose when you Undertake a Perilous Journey in this area.
+** Tell the GM what person, place, or thing you recently encountered and are spending your time thinking about, and ask them one question from the Discern Realities list about it.
+* On 7-9, you take in enough to feed yourself. These count as rations if you Make Camp in that same day.
+* on a -6 You go Hungry",Move
+Forest,"<$list filter=""[tag[Forest]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Front Page,"<ul><$list filter=""[tag[Home]tag[Important]]+[sort[]]"">
+<li><$link><$view field=""title""/></$link></li>
+</$list></ul>
+<ul><$list filter=""[tag[Home]!tag[Important]]+[sort[]]"">
+<li><$link><$view field=""title""/></$link></li>
+</$list></ul>",Home
+Geography,{{Prominent Geography of Nalonar}},
+Gerendell,,Cobehot [[Empire of Anligit]] Town Urban [[Acolytes of the Great Flame]]
+GM Access Key,"<$edit-text tiddler=""$:/state/GMKey"" size=20 tag=input default=""Key Please?""/> <$button>
+<$action-sendmessage $message=""tm-close-tiddler""/>
+<$action-navigate $to=""Front Page""/>
+<$list filter=""[tag[GMHome]]+[sort[]]""><$action-navigate $to={{!!title}}/></$list>
+Login
+</$button> <$button set=""$:/state/GMKey"" setTo="""">
+<$action-sendmessage $message=""tm-close-tiddler""/>
+<$action-navigate $to=""Front Page""/>
+Not GM
+</$button>",GMImport [[Hide Close]]
+GM Example Full,You should not be able to read this without the right key!,GMNote GMExample
+GM Example Partial,"You should be able to read this without a password.
+
+<<GMNote ""But you should not see this extra text until you have the right Key!"">>",GMExample
+GMImageMacro,"\define GMImage()
+<$reveal type=""match"" state=""$:/state/GMKey"" text=""98631635"">
+<<MapMacroInternal {{!!imagegm}} ""border: 2px solid #ff0000"">>
+</$reveal>
+\end",$:/tags/Macro
+GMNoteMacro,"\define GMNote(text:""Empty GM Note Macro"")
+
+<$reveal type=""match"" state=""$:/state/GMKey"" text=""98631635"">
+
+<span style=""color:#ff0000"">
+
+$text$
+
+</span>
+
+</$reveal>
+
+\end",$:/tags/Macro GMNote GMImport
+Gnome,"* [[Name Generator|https://codexnomina.com/dnd-gnome-names/]]
+* [[Languages]] Gnomish",Race
+Goblin,"* [[Name Generator|https://www.fantasynamegenerators.com/goblin-names.php]]
+* [[Languages]] Goblin",Race
+God's Foothills,"!!! Urban Locations
+<$list filter=""[tag[God's Foothills]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Cobehot Urban [[Acolytes of the Great Flame]]
+Goedd,"The left the [[Empire of Anligit]] as settlers but decided to strike out on their own, thus they have a Bad relationship with the [[Empire of Anligit]]. Halfling Town, good at crafting with wood, especially with woodwind music instruments",Lenara Urban Town [[Farfood Fellowship]]
+Gorr-Ang,Downgraded from Town to Village,Cobehot [[Anti-Onuk Alliance]] Urban Village
+Gorruzu-novu,Fortified,[[Anti-Onuk Alliance]] Town Urban Silva
+Gorzzu-oku,Abandoned to form the Towns of [[Gorruzu-novu]] and [[Gorr-Ang]] in the minor faction of [[Anti-Onuk Alliance]],Urban Kemzemkex Gronzezzeg Ruins
+Graham,,Player Character Thursday GMNote
+Gronzezzeg,"""""""
+[[Their Capital|Muansi-oka]] is found on the [[Ulhar River]] south of the [[Lerutl Hills]]
+Found on the island of [[Kemzemkex]] is mostly [[Kobold]]
+Has a Hostile relationship with [[Ancient Necromancer]].
+Has an Excellent trade relationship with [[Kingdom of Orlon]]
+Has successfully attacked and weakened the [[Ancient Necromancer]].
+""""""
+
+!!! Urban Locations
+<$list filter=""[tag[Gronzezzeg]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Gronzezzeg]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Gronzezzeg]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Gronzezzeg]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Gronzezzeg]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle) (Population <$view field=""population""/>)<br/>
+</$list>",[[Major Faction]]
+Groups and Organisations,"<$list filter=""[tag[Group]][tag[Organisation]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Home
+Halfling,"* [[Name Generator|https://www.fantasynamegenerators.com/dnd-halfling-names.php]]
+* [[Languages]] Common",Race
+Hew,"Magical Axe <<GMNote ""Deals Maximum damage when it hits a Plant based creature or something made of wood, it was made by [[unnamed Dwarven Smith]] a Dwarven Rune smith. Any time the player is within a forest, they feel uneasy as if someone was watching them."">>",Object
+HideCloseButton,"[data-tags*=""Hide Close""] button[title=""Close this tiddler""]   {display: none;}",$:/tags/Stylesheet GMNote GMImport
+HideEditButton,"<$reveal type=""nomatch"" state=""$:/state/GMKey"" text=""98631635"">
+   button[title=""Edit this tiddler""] {display:none}
+</$reveal>",$:/tags/Stylesheet GMNote GMImport
+Hills,"<$list filter=""[tag[Hills]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Hjodlikziz Urngorr,Found on the Island of [[Principal]] Surrounds the southern side of [[Hlegu Brjaam]],[[Mountain Range]] Geography Principal
+Hlegu Brjaam,Found on the Island of [[Principal]] north of the [[Hjodlikziz Urngorr]] Mountain Range,Lake Geography Principal
+Home Shell Home,,Move Wildlife todo
+Hottelan,Goblin Pirates,Pirate Cobehot Urban
+Human,"* [[Name Generator|https://www.fantasynamegenerators.com/dnd-human-names.php]]
+* [[Languages]] Common",Race
+Island,"<$list filter=""[tag[Island]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Islands of Nalonar,{{Island}},Home
+Item Ideas,"* Drunkard’s Hat, A fine straw or town hat, user knows the location of the nearest alcoholic beverage.
+* Coin of Certainty, a brass coin that always lands on heads.
+* Bolts of Seeking. A crossbow bolt that automatically seeks out and targets the nearest person when fired. Please note this is almost always the person who fired the crossbow.
+* Chalk of Doors, A stick of chalk with a sprinkle of rainbow in the lime. Allows the user to cast misty step as an action by drawing a chalk door on the wall and stepping through. 3/3 uses.
+* Cloak of Grace, Allows user to cast feather fall once per day, billows majestically at all other times. On natural 1 rolls the cloak will get caught in something.
+* I'm about to give one of my players a +1 flail that's going to drop from a mimic. What the player won't know until he rolls a Nat20 on an attack is that the flail is actually a baby mimic that opens up its maw and clamps down on the target's body, but on a nat one the mimic will clamp down on the player and will need to make a strength check to pry it off or he won't be able to fight with it.
+* The Wolf’s Fang: This +1 magical longsword – with an ivory wolf’s head pommel – identifies its bearer as a friend to wolves, who will not attack the wielder unless provoked. 
+* Moondancer: This +1 magical rapier is made from glittering silver steel that never rusts. Its hilt is inlaid with mother of pearl stars. When Moondancer moves through the air, the tip of the blade leaves traces of silvery light behind it. 
+* Ceramite Shortsword: This +1 magical shortsword is made from magically hardened porcelain, inlaid with pale blue images of swallows in flight. The blade is impossibly sharp, but brittle. On a critical hit, roll an additional damage die. On a 1, the blade shatters into a thousand pieces and the air is momentarily filled with birdsong. 
+* Prospector’s Blade: This +1 magical broadsword is of dwarven design. When the tip of this wide, squat bronze sword is tapped twice against a nonmagical metal, stone, or other mineral, the wielder learns its type. 
+* Star Iron: This +1 magical longsword was forged from a meteorite. Its blade is a dark, shimmering blue, streaked with black and gold. Under starlight, the blade glows softly and feels lighter, gaining the finesse property until dawn. 
+* Talon of the Crow Lord: This +1 magical longsword has a hilt adorned with feathers wrought from silver. When you attune to this weapon you can speak to and understand all crows, ravens, magpies, and other corvids, who periodically seek you out to make tiny offerings of shiny trinkets and baubles. 
+* Aeolian Edge: This +1 magical rapier is exceptionally light. So light, in fact, that it will gently float away unless held or weighed down. When drawn, the bearer is surrounded by a momentary gust of wind that causes their hair and clothes to billow impressively. 
+
+
+
+
+
+
+Think about the Origin, Aesthetic, and Location of a +1 magic sword. Express its past in the craftsmanship, or in the place where it is found. Do this right and your player hasn’t just picked up a slightly better pointy stick: they’ve acquired a piece of history, a riddle from the past to solve. 
+
+Giving your cleric a holy sword forged by an order of nuns to slay the demon that tormented their monastery, with a blade forged from melted down holy symbols and a hilt adorned with wax purity seals and scraps of holy scripture is a hell of a lot more evocative than saying “you find a +1 magic longsword.
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Object GMNote
+Izholk,<<NPCMacro>>,Character Kobold
+Izholk's Mount,<<NPCMacro>>,Character [[Komodo Dragon]]
+Jungle,"<$list filter=""[tag[Jungle]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Kantza,,River Geography Lenara
+Kemzath,on the northern coast of [[Kemzemkex]],[[Empire of Zantera]] Urban Town Kemzemkex
+Kemzemkex,"North West.
+
+!!! Geography
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Bay]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Bay)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Savanna]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Savanna)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Swamp]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Swamp)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Hills]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Hills)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Lake]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Lake)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[River]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (River)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Forest]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Forest)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Mountain Range]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Mountain Range)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Desert]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Desert)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Jungle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Jungle)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Canyon]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Canyon)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Geography]tag[Volcano]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Volcano)<br/>
+</$list>
+
+!!! Urban
+<$list filter=""[tag[Kemzemkex]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village)<br/>
+</$list>
+<$list filter=""[tag[Kemzemkex]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle)<br/>
+</$list>
+
+!!! Misc
+<$list filter=""[tag[Kemzemkex]!tag[Urban]!tag[Geography]]+[sort[]]"">
+<$link><$view field=""title""/></$link> Tagged with: <$view field=""tags""/><br/>
+</$list>",Island
+Kingdom of Orlon,"""""""
+Found in [[Silva]] mostly [[Lizardfolk]]
+[[Their Capital|Tiloak]] is found nestled in the Y of the [[River Kous]] on the Island of [[Silva]]. 
+They have Very Hostile Relationship with [[The Federation of the Sentinel]].
+They have a Very Hostile relationship with [[Xavier]]
+They have a Badly Damaged relationship with [[Empire of Anligit]]. (because the attacked [[Xavier]])
+They have an Excellent Trade Relationship with the Country of [[Gronzezzeg]].
+They have a Bad relationship with the city state of [[Sorraku]].
+Has attacked the town of [[Druibar]] (Attackers on 2, defenders on 1)
+Has attacked the town of [[Tagenburry]] (Attackers on 3, defenders on 6)
+Were attacked by the Federation at Okat-oork (and defended)
+""""""
+
+!!! Urban Locations
+<$list filter=""[tag[Kingdom of Orlon]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Kingdom of Orlon]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Kingdom of Orlon]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Kingdom of Orlon]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Kingdom of Orlon]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle) (Population <$view field=""population""/>)<br/>
+</$list>",[[Major Faction]]
+Kobold,"* [[Name Generator|https://www.fantasynamegenerators.com/pathfinder-kobold-names.php]]
+* [[Languages]] Draconic",Race
+Komodo Dragon,"Naitive to the [[Swamp of Turatil]] and can only be trained by [[Kobold]]'s out of [[Tura-oka]] or [[Komozaa-oka]]
+
+<$list filter=""[tag[Komodo Dragon]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Wildlife Kemzemkex
+Komozaa-oka,"Masters of Taming the [[Komodo Dragon]]'s of the [[Swamp of Turatil]].
+
+<$list filter=""[tag[Komozaa-oka]]+[sort[]]"">
+<li><$link><$view field=""title""/></$link></li>
+</$list>",Town Gronzezzeg Kemzemkex Urban
+Koralan,Goblin Town on the River. downgraded to village after the great fire of Koralan.,Urban Town Cobehot [[Confederacy of the Larne]]
+Korat,"Town by [[Thi-Nor]], A rare disease came out of the jungle and struck the town of Korat hard and reduced its population to the size of a village.",[[Kingdom of Orlon]] Urban Silva Village
+Krakat-Oork,Abundant supply of Iron,Hills Geography Silva
+Ku Rata,"!!! Urban Locations
+<$list filter=""[tag[Ku Rata]tag[Urban]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>",[[Minor Faction]]
+Lake,"<$list filter=""[tag[Lake]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Languages,"* Common (English), spoken by [[Human]] and [[Halfling]]
+* [[Gnomish|https://lingojam.com/Englishto(ElDamo)GnomishTranslator]], Spoken by the [[Gnome]]
+* [[Elven|https://lingojam.com/CommontoElvish]], spoken by the [[Elf]]
+* [[Goblin|http://www.screwytruths.com/Goblin.html]], spoken by the [[Goblin]]
+* [[Draconic|https://draconic.twilightrealm.com]], spoken by the [[Kobold]] and the [[Lizardfolk]]
+* [[Dwarven|https://lingojam.com/CommontoDwarvishTranslator]], spoken by the [[Dwarf]]",Home
+League of Glang,"""""""
+Is Very Hostile with the [[Xavier]].
+Is Hostile with the [[Empire of Anligit]].
+They have an Alliance with the [[Empire of Zantera]]
+Attacked (2) by [[Xavier]] at [[Cellaa Orhim]] which defended (5).
+""""""
+
+!!! Urban Locations
+<$list filter=""[tag[League of Glang]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[League of Glang]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[League of Glang]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[League of Glang]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[League of Glang]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle) (Population <$view field=""population""/>)<br/>
+</$list>",[[Major Faction]]
+Lenara,"Top Right.
+
+!!! Geography
+<$list filter=""[tag[Lenara]tag[Geography]tag[Bay]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Bay),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Savanna]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Savanna),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Swamp]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Swamp),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Hills]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Hills),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Lake]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Lake),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[River]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (River),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Forest]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Forest),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Mountain Range]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Mountain Range),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Desert]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Desert),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Jungle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Jungle),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Canyon]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Canyon),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Geography]tag[Volcano]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Volcano),<br/>
+</$list>
+
+!!! Urban
+<$list filter=""[tag[Lenara]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village),<br/>
+</$list>
+<$list filter=""[tag[Lenara]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle),<br/>
+</$list>
+
+!!! Misc
+<$list filter=""[tag[Lenara]!tag[Urban]!tag[Geography]]+[sort[]]"">
+<$link><$view field=""title""/></$link> Tagged with: <$view field=""tags""/><br/>
+</$list>",Island
+Lerutl Hills,On the Island of [[Kemzemkex]] has a plentiful supply of Coal,Hills Kemzemkex Geography
+Like a Tin Can,constrictor related.,Move Wildlife todo
+Lizardfolk,"* [[Name Generator|https://www.fantasynamegenerators.com/lizardfolk-names.php]]
+* [[Languages]] Draconic",Race
+Llek-kala,,Forest Geography Principal
+Lukk,"[img[https://nalonar.eaglesroost.org/images/tokens/Lukk.png]]
+
+<<GMNote ""Possible Last Breath - Split, Kharazan vs Molten Core, whats the At Cost?
+
+He was taken from his home village at a very young age by [[Osfire Fernbridge]] and was given some training in the ways of Magic. He quickly realised this was not his home and in his opinion he was being used so he escaped with [[Cas Kesmick]], [[Balvar Muzrald]] and [[Zaglo Kobald]], and he has not looked back since.
+
+Grimoire, in an Arcane script, taught by the Halflings from the [[Acolytes of the Great Flame]], handled by a non magic user, produces a tingling affect within the hands, opening the book, the user will see the text swirl and disappear. (Energy must be 'channelled' into the book in order to get the text to remain.)
+
+While he prepares his spells, there is a warm light that emanates from the book and a low hum can be heard within a few feet.
+
+When he casts spells, there is lots of hand wavering and he often uses a component of some kind as he thinks they help make his spells more powerful.
+
+After he escaped, he saw [[Erol]] perform in a tavern, he was amazed at this performance and how different it was from normal behaviour and decided he should listen when [[Erol]] told him what was socially acceptable and what wasn't.
+
+As a child [[Rask]] went into [[Tomes re Udoka]] in [[Komozaa-oka]]  and 'borrowed' the only copy of [[Raising Dragons 4 Dummies]], on the inside cover it is clearly marked as the property of [[Tomes re Udoka]], when [[Rask]] found out that Lukk could read, he asked him to read the book, at this point [[Lukk]] found the marking on the inside cover and now wants [[Rask]] to return it.
+
+Three members of [[Acolytes of the Great Flame]] was in the area looking for the escaped students, after looking in the [[Swamp of Turatil]] after a tip off from some pirates he headed to [[Komozaa-oka]] to follow up on the tip off. [[Lukk]] was lucky and spotted the cultists before they spotted him, after a quick chat and a plan with [[Tirgeth]] they managed to lure two of them away and isolate and remove them from the equation, unfortunately the other one escaped into the crowd. [[Lukk]] now feels he owes [[Tirgeth]].
+"">>",Character Goblin Player Wednesday
+Lurk Under the Water,,Wildlife Move todo
+Maisie Starhammer,"[img[https://nalonar.eaglesroost.org/images/tokens/Maisie Starhammer.png]]
+
+<<GMNote ""Possible Last Breath - deepholm?, whats the At Cost?
+
+BODY: Relatively short but very stocky and muscular. A few scars on her arms and one on her right cheek. She does sport a well-kept and short beard along with hair that is kept tied back
+
+EYES: Deep blue. They have a hard edge to them
+
+VOICE: Crisp enunciation with a broad accent. Does talk at around a billion miles an hour when excited.
+
+DEMEANOUR: Doesn't take anyone's nonsense, can seem a little abrasive, but she does have a soft streak.
+
+Signature Weapon is a Ancient Hammer that is well crafted and glows when in the presence of [[Strakara]], who was it made, when, why?
+
+After finding herself beset by foes, her last breath struggling to find its way into her lungs, enemy's all around, she feels a burning sensation at the core of her being, the burning sensation seams to burn away her exhaustion and she is able to win the day, as she looks around she sees [[Shol-Tak]] standing on a small hill behind her wreathed in fire. She feels in her core that he is the one responsible for this and knows she owes him. She swears a dwarven debt, to protect him for as long as [[Shol-Tak]] deems her to be useful.
+
+She was traveling with [[Radrick]] as a hired merc, after watching them throw [[Lukk]] overboard for not being able to pay for his passage, she thought that it was a bit unfair and excessive, she had a disagreement and a falling out with [[Radrick]] and after the trip and re encountering [[Lukk]] she thinks he needs to toughen up.
+
+[[Maisie Starhammer]] has never heard of anything good coming from having a pet BEAR, and is convinced that [[Tirgeth]] having Dobbi is an accident waiting to happen.
+
+During the fight with [[Rask]] the last of her dwarven ale from home was spilled, [[Rask]] has been unable to find anything that qualifies to repay the debt.
+
+"">>",Character Player Dwarf Wednesday
+Malcolm,,Player Character Thursday GMNote
+Malketh,Capital of the [[Empire of Zantera]] found on the island of [[Lenara]].,Capital Urban Lenara [[Empire of Zantera]]
+Man Orhim,"Humans, have an especially bad relationship with the Country of [[Xavier]] and settled near to the [[Canyons of Cobeham]]",Town Urban [[League of Glang]] Cobehot
+MapMacro,"\define MapMacro()
+<<MapMacroInternal {{!!image}}>>
+\end
+
+\define MapMacroInternal(imagePath:'',imageStyle:'')
+<a href=$imagePath$ target=""_blank""><img style=""$imageStyle$"" src=$imagePath$ width=""100%"" height=""100%""></a>
+\end",$:/tags/Macro
+Maps,"<$list filter=""[tag[Maps]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Home
+Marbledell,plenty of access to the local Marble Quarry's. Was abandoned when the Halflings left to form [[City of the Goddess]]. Was repopulated by the Empire!,Cobehot [[Empire of Anligit]] Urban City [[Acolytes of the Great Flame]]
+Mind Control,"When you are compelled to act against your will, mark XP if you act as bidden. If you resist, roll +WIS:
+
+* On 10+, you shake off the compulsion and act as you wish;
+* On 7-9, choose 1:
+** Stand dazed, fighting for control of your mind
+** Start acting as compelled but stop yourself at the last moment
+** Harm yourself to regain control (1d6 damage, ignores armour)
+* On a 6-, you come to your senses having done gods-know-what.",Move
+Mountain Range,"<$list filter=""[tag[Mountain Range]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Move,"<$list filter=""[tag[Move]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Muansi-oka,Capital of [[Gronzezzeg]] found to the south of the [[Lerutl Hills]] on the [[Ulhar River]],Capital Kemzemkex Urban Gronzezzeg
+Narlath,Capital City of The Country [[Xavier]] found on the island of [[Principal]] nestled on the [[River Macnath]] south of [[The Forest of Narl]].,Capital Principal Urban Xavier
+Narlon Bay Toll Service,"<$list filter=""[tag[Narlon Bay Toll Service]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Pirate Organisation Cobehot Hottelan
+Nations of Nalonar,"!!! Relationship's between the Nations
+
+[[Relationship Table]]
+
+!!! Major Factions
+<$list filter=""[tag[Major Faction]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+
+!!! Minor Factions
+<$list filter=""[tag[Minor Faction]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+
+!!! City States
+<$list filter=""[tag[City State]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+
+!!! Misc
+<$list filter=""[tag[Pirate]!tag[Urban]!tag[Ruins]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Pirate)<br/>
+</$list>
+<$list filter=""[tag[Bandit]!tag[Urban]!tag[Ruins]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Bandit)<br/>
+</$list>
+<$list filter=""[tag[Cult]!tag[Urban]!tag[Ruins]!tag[Character]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Cult)<br/>
+</$list>",Home Important
+Navigating the Lower Depths,"When navigating the Lower Depths, spend 1 ration per party member and roll + WIS.
+
+* On a 10+, choose 3.
+* On a 7-9, choose 2.
+* On 6 or less, choose 1 in addition to whatever else the GM says.
+** You don't become so lost you cannot return to where you started from;
+** You are not ambushed;
+** You find what you are looking for;
+** You don't spend an extra day (and an extra ration per party member) finding your way;
+** You discover something unexpected and useful.",Move
+Neil,,Player Character Thursday GMNote
+Nek-oku,"Pirate Town, Home to;
+
+<$list filter=""[tag[Nek-oku]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Kemzemkex Urban Pirate
+New Sorrimar,Very close to the [[Ruins of Sorrimar]]. Some said it was foolish to leave such a good location for a city untouched. Struck by a metorite and downgraded from City to Village (most population migrated to [[Tagenburry]],Principal Xavier Urban Village
+New Spells,"When you create a spell for your spell book (one not available on your class spell list), tell the GM what you’re trying to achieve. Once the affect of the spell is checked and ""ok'ed"", the GM will give you one to four of the following conditions:
+
+* It’s going to take days/weeks/months
+* First you must //BLANK//
+* You’ll need help from //BLANK//
+* It will require a //''lot''// of money
+* It will also require //BLANK//
+* The best you can do is a lesser version, unreliable and limited.
+* It will cost you a point of //BLANK//
+* You’ll have to disenchant //BLANK// to do it
+
+When you finish spell research, roll+Int
+
+* On 10+, the spell is created and works as intended
+* On 7-9, choose two
+** The spell research is successful but costs you a point of Constitution
+** The spell research is successful but costs you a point of Intelligence
+** Complication of sorts (?)
+** Complication of sorts (?)
+* On 6- the spell research is ruined and must be started again as well as any other moves the GM takes",Move
+Nine Lives,"//When you take your Last Breath// and spend Hold, gain that hold spent as a bonus on your standard Last Breath roll.",Wildlife Move
+NPC Creation,"https://a-dungeon-world.fandom.com/wiki/Building_NPCs
+
+https://a-dungeon-world.fandom.com/wiki/NPC_Tables",Character
+NPCMacro,"\define NPCMacro()
+<a href={{!!image}} target=""_blank""><img src={{!!image}} width=""50%"" height=""50%""></a><br/>
+<<GMNote '
+Damage - <$transclude field=""damage""/><br/>
+Health - <$transclude field=""hp""/><br/>
+Armour - <$transclude field=""armour""/><br/>
+<$transclude field=""abilities""/><br/>
+<$transclude field=""comment""/><br/>
+'>>
+<$transclude field=""public""/><br/>
+\end",$:/tags/Macro
+Object,"<$list filter=""[tag[Object]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Objects of Note,"<$list filter=""[tag[Object]]+[sort[]]"">
+<$link><$view field=""title""/></$link>
+<details><$transclude field=""text""/></details><br/>
+</$list>",Home
+Oka-oku,on the western side of the [[River Okatern]],Town Silva [[Kingdom of Orlon]] Urban
+Okat Regulars,"Military Group, Standard Army unit of the [[Kingdom of Orlon]] Fought at [[The Battle of Okat-Oork]] and was ""Stood Down"" afterwards.",Organisation
+Okat-Oork,near the [[Krakat-Oork]] hills,Town Silva [[Kingdom of Orlon]] Urban
+Oku-Kazi,"Pirates, when the [[Kingdom of Orlon]] Sacked the Pirate town of [[Drumku]] then sailed away and are now birthed out of...",Silva Organisation Pirate Nek-oku Ulzek-oku
+Oku-susa,by the water,[[Kingdom of Orlon]] Silva City Urban
+Ollicante,,Forest Geography Lenara
+Onuk,Bandits,Organisation Kemzemkex Oroun-uku Bandit
+Orc,only known connection is the [[Ruins of Sorrimar]],Race
+Orllhim-Or-Kala,"Great access to Livestock, on the boarder of the [[Llek-kala]] forest on the eastern coast of [[Principal]]",Town Urban Principal Xavier
+Orlon Army Patch,"Worn by [[Shol-Tak]] as a indication of something he has sacrificed to the fire (his affiliation with the [[Kingdom of Orlon]]. Both it and the cloth around it as singed as if by fire, and the truly observant if they manage to get a close enough look will notice that the symbol that represents the kingdom is on fire.",Object
+Oroun-uku,"Home to the Bandits of [[Onuk]] located on the main road from [[Gorzzu-oku]] to [[Muansi-oka]]
+
+<$list filter=""[tag[Oroun-uku]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Urban Kemzemkex Bandit
+Osfire Fernbridge,"menacing fire mage barefoot scorched black toes, robed and mysterious. evil red glowing eyes",Character [[Acolytes of the Great Flame]]
+Peninsula Plains,,Savanna Geography Cobehot
+Pete,,Player Character Thursday GMNote
+Place,"<$list filter=""[tag[Komozaa-oka]]+[sort[]]"">
+<li><$link><$view field=""title""/></$link></li>
+</$list>",Home
+Player,"{{Wednesday Characters}}
+
+{{Thursday Characters}}
+
+!!! Player Characters (Misc)
+
+<$list filter=""[tag[Character]tag[Player]!tag[Wednesday]!tag[Thursday]]+[sort[]]"">
+<$link><$view field=""title""/></$link> - <$view field=""player""/><br/>
+</$list>",
+Poisoned Fang,"Currently don't like it doing ""extra"" damage, but as they can't take tick damage on their turn this feels like an ok solution... ish... needs thought?
+
+//When you sink your fangs into someone or something// and spend 1 hold roll +Dex
+
+* 10+ - You sink your fangs in and your poison goes into them, all attacks against them from this point forwards or until the poison is cleansed get +1D4 damage.
+* 7-9 - As 10+ except you needed to stay latched on for a little too long and they retaliate to get you off. They make an attack against you.
+* 6- - It did not work, and now they know what you tried to do. GM Move.",Snake Move Wildlife todo
+Portcook,infected by the cult,Town Urban Lenara [[Farfood Fellowship]] [[Acolytes of the Great Flame]]
+Portcook Lake,,Lake Lenara Geography
+Principal,"South East.
+
+!!! Geography
+<$list filter=""[tag[Principal]tag[Geography]tag[Bay]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Bay)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Savanna]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Savanna)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Swamp]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Swamp)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Hills]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Hills)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Lake]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Lake)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[River]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (River)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Forest]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Forest)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Mountain Range]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Mountain Range)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Desert]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Desert)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Jungle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Jungle)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Canyon]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Canyon)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Geography]tag[Volcano]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Volcano)<br/>
+</$list>
+
+!!! Urban
+<$list filter=""[tag[Principal]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village)<br/>
+</$list>
+<$list filter=""[tag[Principal]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle)<br/>
+</$list>
+
+!!! Misc
+<$list filter=""[tag[Principal]!tag[Urban]!tag[Geography]]+[sort[]]"">
+<$link><$view field=""title""/></$link> Tagged with: <$view field=""tags""/><br/>
+</$list>",Island
+Prominent Geography of Nalonar,"!!! Island's
+{{Island}}
+
+!!! Bay's
+{{Bay}}
+
+!!! Savannas
+{{Savanna}}
+
+!!! Swamps
+{{Swamp}}
+
+!!! Hills
+{{Hills}}
+
+!!! Lakes
+{{Lake}}
+
+!!! Rivers
+{{River}}
+
+!!! Forests
+{{Forest}}
+
+!!! Mountain Ranges
+{{Mountain Range}}
+
+!!! Deserts
+{{Desert}}
+
+!!! Jungles
+{{Jungle}}
+
+!!! Canyons
+{{Canyon}}
+
+!!! Volcanos
+{{Volcano}}
+",Home
+Prowling About,"When you move silently and hidden from sight, hold 3 Cloak. When you risk revealing your presence while holding Cloak, roll 2d6+ Cloak :
+
+* On a 10+, you remain undetected.
+* On a 7-9, choose 1 (the GM will fill in the details):
+** You arouse suspicion and lose 1 Cloak.
+** You are spotted but have the drop on them.
+** You stumble on an obstacle you did not expect.
+** You leave behind incriminating evidence.
+* On a 6-, lose 1 Cloak in addition to whatever the GM says.
+
+When your Cloak reaches 0, the jig is up.
+
+Rolling 2d6+CLOAK is key here : the longer you stay hidden and the more stuff you do, the harder it is to remain undetected. No nonsense like ""it was just my imagination"" from the guards.",Move
+publishFilter,"\define publishFilter()
+-[[$:/state/GMKey]]
+\end",GMImport $:/tags/Macro
+Quanova,on the southern coast of the southern island by the mouth of the river [[Kantza]],Town Lenara [[Empire of Zantera]] Urban
+Quat-oku,,Gronzezzeg Kemzemkex Town Urban
+Race,"!!! Races of Nalonar
+
+| !Race | !Nalonar Urban | !Nalonar Rural | !Nalonar Percentage | !Nalonar % Roll |
+| [[Lizardfolk]] | 143,510 | 3,193,932 | 24% | 01 - 24 |
+| [[Gnome]] | 14,630 | 570,570 | 4% | 25 - 28 |
+| [[Halfling]] | 68,420 | 2,138,677 | 16% | 29 - 44 |
+| [[Dwarf]] | 38,250 | 1,624,793 | 12% | 45 - 56 |
+| [[Human]] | 45,900 | 1,434,745 | 11% | 57 - 67 |
+| [[Elf]] | 56,170 | 2,752,330 | 20% | 68 - 87 |
+| [[Goblin]] | 21,350 | 405,650 | 3% | 88 - 90 |
+| [[Kobold]] | 43,120 | 1,304,380 | 10% | 91 - 100 |
+| Total | 431,350 | 13,425,077 |  |  |
+
+!!! Wildlife of Nalonar
+
+{{Wildlife}}",Home Important
+Radrick,"Pirate Captain, known smuggler, not charismatic. very pissed with [[Lukk]] as he owes him the value of a smuggle from one side of the map to the other. is a member of [[Radrick]]",Tura-oka
+Ragtarn Mountains,Mountain Range on the Island of [[Principal]] North of [[The Forest of Narl]] has a high potential for Quarrying,[[Mountain Range]] Geography Principal
+Raising Dragons 4 Dummies,Book used to teach new people how to train comodo dragons. there WAS known to be a copy in the [[Tomes re Udoka]] library in [[Komozaa-oka]] but it went missing many years ago.,Object
+Rango,"[img[https://nalonar.eaglesroost.org/images/tokens/Rango.png]]
+
+Familiar of [[Lukk]]",Character
+Rask,"[img[https://nalonar.eaglesroost.org/images/tokens/Rask.png]]
+
+<<GMNote ""Possible Last Breath - Camp fire with 2D4 ancestors, No idea what the At Cost is as she suggests it...
+
+updated to be female.
+
+He is so muscular that his muscles have muscles. Like the Rock but scaly and with a long snout.
+He wears shorts/trousers but REFUSES to wear shirts. Even if it is weather inappropriate... ESPECIALLY if it is weather inappropriate!
+Has a tattoo of a scary looking [[Komodo Dragon]] on his back.
+
+In search of Fame and Glory Rask went to follow in the footsteps of [[Izholk]] to try and obtain his own Comodo Dragon and train it... It did not go well when Rask managed to obtain an egg, but then was unsure what to do with it...
+
+When young, he had great dreams of being a great hero, when at a low point, he heard [[Erol]] telling a legendary epic about [[Izholk]] and it rekindled his spirit to become a hero, He now wants to impress [[Erol]] so that one day he will tell those sorts of story's about him.
+
+Was paid by a merchant guild out of [[Quat-oku]] to attack a bandit force of [[Onuk]] during the fight [[Rask]] was impressed by the response to command that [[Tirgeth]] had over Dobbi and has decided that [[Tirgeth]] should aid her in obtaining and training her own [[Komodo Dragon]].
+
+[[Rask]] saw [[Maisie Starhammer]] and thought she could get an easy win after the fight started she quickly realised she was wrong and was on the receiving end of a still inebriated and thus fighting strong dwarf and consequently respects her strength.
+
+He fort Alongside [[Shol-Tak]] at [[The Battle of Okat-Oork]] and like him wanted to push the Victory and make the conquest.
+"">>",Player Character Kobold Wednesday
+Rask's Repose,"When you call upon the aid of those gone by roll+Cha.
+
+* On a 10+, Choose 1;
+** A Helpful Spirit with a Relevant skill comes to your aid.
+** A Helpful Spirit with a less relevant skill comes to the aid of another.
+* On a 7-9, A Helpful Spirit with a less relevant skill comes to your aid.
+* On 6-, //''Something'' comes and its NOT to help.//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",Move
+Relationship Table,"! Relationships between Nations (WIP)
+
+[[Source Sheet|https://docs.google.com/spreadsheets/d/1Ht_5l0EcZiTcwLsHtC3b_G0lxelVUzE9OdBhBMbGGEI/edit#gid=0]]
+
+{{Relationship Table Raw}}",Home
+Relationship Table Raw,"| ! | ![[Empire of Anligit]] | ![[Empire of Zantera]] | ![[Gronzezzeg]] | ![[Kingdom of Orlon]] | ![[Xavier]] |
+| ![[Empire of Anligit]] |  | Not Good |  | Bad | Trade and Alliance |
+| ![[Empire of Zantera]] | Not Good |  |  |  | Very Hostile |
+| ![[Gronzezzeg]] |  |  |  | Trade |  |
+| ![[Kingdom of Orlon]] | Bad |  | Trade |  | Very Hostile |
+| ![[Xavier]] | Trade and Alliance | Very Hostile |  | Very Hostile |  |
+| ![[Anti-Onuk Alliance]] |  |  |  |  |  |
+| ![[Confederacy of the Larne]] |  |  |  |  |  |
+| ![[Farfood Fellowship]] | Bad |  |  |  |  |
+| ![[Ku Rata]] |  |  |  | Hostile |  |
+| ![[League of Glang]] | Hostile | Alliance |  |  | Very Hostile |
+| ![[The Ecclesiocracy of Flame]] |  |  |  |  |  |
+| ![[The Federation of the Sentinel]] |  |  |  | Very Hostile |  |
+| ![[Zanteran Republic]] |  | Very Hostile |  |  |  |
+
+| ! | ![[Anti-Onuk Alliance]] | ![[Confederacy of the Larne]] | ![[Farfood Fellowship]] | ![[Ku Rata]] |
+| ![[Empire of Anligit]] |  |  | Bad |  |
+| ![[Empire of Zantera]] |  |  |  |  |
+| ![[Gronzezzeg]] |  |  |  |  |
+| ![[Kingdom of Orlon]] |  |  |  | Hostile |
+| ![[Xavier]] |  |  |  |  |
+| ![[Anti-Onuk Alliance]] |  |  |  |  |
+| ![[Confederacy of the Larne]] |  |  |  |  |
+| ![[Farfood Fellowship]] |  |  |  |  |
+| ![[Ku Rata]] |  |  |  |  |
+| ![[League of Glang]] |  |  |  |  |
+| ![[The Ecclesiocracy of Flame]] |  |  |  |  |
+| ![[The Federation of the Sentinel]] |  |  |  |  |
+| ![[Zanteran Republic]] |  |  |  |  |
+
+| ! | ![[League of Glang]] | ![[The Ecclesiocracy of Flame]] | ![[The Federation of the Sentinel]] | ![[Zanteran Republic]] |
+| ![[Empire of Anligit]] | Hostile |  |  |  |
+| ![[Empire of Zantera]] | Alliance |  |  | Very Hostile |
+| ![[Gronzezzeg]] |  |  |  |  |
+| ![[Kingdom of Orlon]] |  |  | Very Hostile |  |
+| ![[Xavier]] | Very Hostile |  |  |  |
+| ![[Anti-Onuk Alliance]] |  |  |  |  |
+| ![[Confederacy of the Larne]] |  |  |  |  |
+| ![[Farfood Fellowship]] |  |  |  |  |
+| ![[Ku Rata]] |  |  |  |  |
+| ![[League of Glang]] |  |  |  |  |
+| ![[The Ecclesiocracy of Flame]] |  |  |  |  |
+| ![[The Federation of the Sentinel]] |  |  |  |  |
+| ![[Zanteran Republic]] |  |  |  |  |",
+Rend and Tear,"//When you Rend and Tear an enemy in melee// Spend 1 Hold, your melee attacks gain the Messy Tag.
+
+Roll + Str
+
+* 10+ Roll an additional die one size lower and keep the highest of those two die. (if your normal damage is D8, roll a D8 and a D6 and choose the best result.) At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack.
+* 7-9 Roll an additional die one size lower and keep the highest of those two die. (if your normal damage is D8, roll a D8 and a D6 and choose the best result.) but the Enemy makes an attack against you.
+* 6- Whops! GM Move.",Move Wildlife Bear
+Replacing A Signature Weapon,"When you acquire a new weapon to replace your lost signature weapon , Roll +Int
+
+* On 10+ You are able to quickly adapt to this new weapon. It fits you almost as well as your lost Signature Weapon. Choose the new base description, range, and look. Then choose 1 new enhancement from the normal signature list. After your nextMake Camp or Recover move, choose the second enhancement.
+* On 7-9: This weapon may be similar, but it's just not the same. Use a d8 damage die until your next ""Make Camp"" or ""Recover"" move. This becomes your new Signature Weapon after a few modifications (spend 100 coin in a city with a blacksmith).
+* On 6-: This weapon is nothing at all like you are used to. Use a d8 damage die until your next ""make camp"" or ""Recoer"" move. This weapon will never become your Signature Weapon. If hunting for a new weapon using the Supply move, treat all 6- as a 7-9",Move
+Resist Disease,"When you make camp while afflicted by a disease and try to resist the effects, roll +CON
+
+* On a 10+, the disease stage is reduced by 1.
+* On a 7-9+, the disease stage remains the same.
+* On a miss, the disease stage is increased by 1.
+//A disease normally starts at stage 1. If the disease enters a new stage, the effects of the new stage normally stacks with the effects of the old one. When a disease reaches stage 3, the effects are permanent unless a cured is found.//",Move
+River,"<$list filter=""[tag[River]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+River Kous,"Found on the Island of [[Silva]], It flows south from the [[Tern Mountains]] and around [[Tiloak]] of the [[Kingdom of Orlon]]",River Silva Geography
+River Langfelt,River in the Country of [[Cobehot]] Flows North through the Great Canyon.,River Geography Cobehot
+River Larne,"Found on the Island of [[Cobehot]], it flows South then East out of the [[White Cliff Mountains]] past [[Silverlight]] the Capital of the [[Empire of Anligit]] and out to sea.",Geography River Cobehot
+River Latch,"Found on the island of [[Cobehot]], it flows North out of the [[White Cliff Mountains]] through the [[Canyons of Cobeham]] and out to sea.",River Geography Cobehot
+River Macnath,"Fast Flowing River, that flows south from the [[Ragtarn Mountains]] through [[The Forest of Narl]] past [[Narlath]] and out to sea.",River Principal Geography
+River Okatern,Flows north out of the [[Tern Mountains]],River Silva Geography
+River Rath,"Found on the island of [[Cobehot]], it flows South out of the [[White Cliff Mountains]] out to sea.",River Cobehot Geography
+Rockfall,"The town of Rockfall is found on the edge of the [[White Cliff Mountains]] near to where the [[River Larne]] becomes a proper river, It has good access to the Iron found in the mountains. also have great access to wool from the abundant sheep in the White Cliff Mountains.",Town Urban [[Empire of Anligit]] Cobehot [[Acolytes of the Great Flame]]
+Roll20 Link,[[The World of Nalonar|https://app.roll20.net/campaigns/details/11719258/the-world-of-nalonar]],Home
+Ruins of Sorrimar,"Signs of an ancient pre human town, of likely of Orkish design. Evidence suggests the place was destroyed by some natural cataclysm, though some have theorised this was some form of divine punishment.",Principal Ruins Urban
+Sarlin,,Town Urban Lenara [[Zanteran Republic]]
+Savanna,"<$list filter=""[tag[Savanna]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Seek Out,"When you go looking for someone you know, describe them and roll+CHA:
+
+* On 10+, choose 2
+* On a 7-9, choose 1
+** You don’t owe them a favor
+** They’re not already in some sort of trouble
+** They don’t have a dangerous secret
+* On 6- The GM might wish you’d never found them in the first place.",Move
+Shol-Tak,"[img[https://nalonar.eaglesroost.org/images/tokens/Shol-Tak.png]]
+
+<<GMNote ""Possible Last Breath - Ony's Lair, Large Dragon, More Sacrifice, specifically from OTHERS
+
+His body is scarred with battle wounds. Several of which glow red.
+His Eyes are searing, with just the occasional flicker.
+His Voice is deep, with a habitual touch of snarl.
+His Demeanour is contemptuous and slightly angry.
+He wears little but a few burnt rags. The observant may notice an [[Orlon Army Patch]] amongst the rags, specifically belonging to the [[Okat Regulars]].
+
+''//Make your sacrifices now and protect the future! May your children rest easy and safe, rather than damning us for the seeds of evil we failed to stop //''
+
+Was at [[The Battle of Okat-Oork]], after the victory the Kingdom, instead of doubling down and attacking the gnomes build the [[The Great Greenhouse of Lounging]], in between frustration and disgust, turning to Anger, Shol-Tak thinks the kingdom has sewn their own destruction, committing to a path of idleness which will lead to a path of decay and has walked away from the [[Okat Regulars]] and the [[Kingdom of Orlon]] in general.
+
+While traveling in [[Gronzezzeg]], joined a band of Mercenary's, during a skirmish/battle at a fortified camp of [[Onuk]], [[Rask]] was surprised to see the fire leave a burning building and surround him and the fleeing ""knights"" (bandits) allowing him to slaughter them in Glory.
+
+In his travels, he encountered [[Maisie Starhammer]] holding a bridge against multiple aggressors, she was holding, but just, mostly through strength of will, out of respect for that strength he sacrificed his Amenity to all Gnomes to the fires within to help [[Maisie Starhammer]] to fight past the point where her wounds should have overcome her.
+
+After hearing [[Erol]]'s life story, [[Shol-Tak]] knows that he has had a touched life so far and everything has been given to him and he has not known sacrifice, this is something that should be remedied.
+"">>",Character Player Lizardfolk Wednesday
+Sight of the Goddess,,[[The Ecclesiocracy of Flame]] Town Urban Cobehot [[Acolytes of the Great Flame]]
+Silozaa-oku,"on the Western side of the Western island of [[Silva]]. Was a Town, got upgraded to a City because of the abundance of resources (wood).",Gronzezzeg Town Urban Silva
+Silva,"Central.
+
+!!! Geography
+<$list filter=""[tag[Silva]tag[Geography]tag[Bay]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Bay),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Savanna]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Savanna),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Swamp]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Swamp),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Hills]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Hills),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Lake]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Lake),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[River]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (River),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Forest]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Forest),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Mountain Range]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Mountain Range),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Desert]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Desert),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Jungle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Jungle),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Canyon]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Canyon),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Geography]tag[Volcano]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Volcano),<br/>
+</$list>
+
+!!! Urban
+<$list filter=""[tag[Silva]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village),<br/>
+</$list>
+<$list filter=""[tag[Silva]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle),<br/>
+</$list>
+
+!!! Misc
+<$list filter=""[tag[Silva]!tag[Urban]!tag[Geography]]+[sort[]]"">
+<$link><$view field=""title""/></$link> Tagged with: <$view field=""tags""/><br/>
+</$list>",Island
+Silver Pendant,"Currently in the possession of [[Erol]] players were told it was not magical per say but that it has been around a LOT of magic. They are aware it is very old, so old infact that whatever markings were on the outside have worn away. They are also aware that it can be opened and that it contains something. They do not know what.
+
+<<GMNote ""It contains hair, which will exist for a very short amount of time once the pendant is opened, it will then decay and turn to dust. The hair belonged to the loved one of the necromancer that they took the pendant from. It is looking for it and is not happy about losing it, so much so that it has sabotaged them and gave an orb of necromancy to the pirates."">>",Object Erol Wednesday
+Silverfin,Found on the Coast of [[Cobehot]] at the mouth of the River [[River Rath]] has good access to the plentiful fish in the [[Bay of Narlon]],Village Urban [[Empire of Anligit]] Cobehot [[Acolytes of the Great Flame]]
+Silverlight,Capital of the [[Empire of Anligit]] on the East coast of [[Cobehot]] north of the [[River Larne]] estuary.,Capital Urban Cobehot [[Empire of Anligit]] [[Acolytes of the Great Flame]]
+Situations and Events,"<$list filter=""[tag[Situation]][tag[Event]]+[sort[]]"">
+<$link><$view field=""title""/></$link>
+<details><$transclude field=""text""/></details><br/>
+</$list>",Home
+Slippery Customer,small holes and sneaking related?,Wildlife Move todo
+Sorraku,Settlers that left the [[Kingdom of Orlon]] thus they have a bad relationship with them. Infected by the Cult,Town Urban Cobehot [[Ku Rata]] [[Acolytes of the Great Flame]]
+Sotak,,[[Kingdom of Orlon]] City Silva Urban
+Stop Drop and Roll,"When on Fire, you may stop, drop, and roll, roll +CON:
+
+* 10+ : The flames go out, but the GM might ask you to pick 1 if you were seriously lit up
+* 7-9 : The flames go out but the GM picks 1, and might ask you to pick another
+** Mark a debility : Weakened, Shaky, Sickened, or Scarred (your choice)
+** Something you were wearing burns up; ask the GM what
+** Take damage from the flames; ask the GM how much
+* 6- : Burn, baby, burn. Roll additional damage as well as anything else the GM says.",Move
+Stracante,closest large settlement to the [[Strakara]] and thus the frontline of a messy informal war. with Excellent Fortifications.,Village Lenara [[Empire of Zantera]] Urban
+Strakara,"Strakara are a species of large predatory wasps originally native to the island of [[Lenara]] they later managed to form colonies on the easternmost island of [[Cobehot]]. They can reach up to a foot in length and have a stocky, powerful build, with a stout head and a wide thorax. Their wingspan is typically around sixteen inches, and their bodies are black, brown, or grey with yellow, orange, or red markings along their abdomen. They are considered to be quite territorial, with a strong defensive drive, and will often launch aggressive attacks on any perceived threat.
+
+<$list filter=""[tag[Strakara]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Lenara Cobehot Wildlife
+Strakara Scout,<<NPCMacro>>,Strakara Wildlife
+Strakara Swarm,<<NPCMacro>>,Strakara Wildlife
+Strength of Will,"When being questioned while under the effects of (the Truthspeak spell, the Grand Inquisitor of Elik the Reaping's gaze, too much booze, etc) roll + CHR and obey the results for the remainder of the conversation.
+
+* 10+ : Your character can say whatever they like.
+* 7-9 : Your character cannot directly lie, but can lie by omission or balance their statements to give false impressions.
+* 6- : Not only can you not lie, either in spirit or literally, you feel compelled to answer any questions. You also blurt out something ... unfortunate... and true. The GM may 'help' you with coming up with your error.﻿",Move
+Subtle Cast,"This move will normally have a number of charges per day, charges are regained through use of [[Subtle Cast Recharge]] or via the results of Subtle Cast (see below). //When you release a spell you’ve prepared as a subtle cast and spend a charge//, roll+INT.
+
+* 12+ The spell is successfully cast and you may cast the spell again later. You do NOT lose a charge of Subtle Cast
+* 10+ The spell is successfully cast and you may cast the spell again later.
+* 7-9 The spell is cast, Subtle Cast Charge is used and choose one:
+** The spell disturbs the fabric of reality as it is cast; take -1 ongoing to cast a spell until the next time you Prepare Spells.
+** After it is cast, the spell is forgotten. You cannot cast the spell again until you prepare spells.
+* 6- The Spell is NOT cast, Subtle Cast charge is lost, Choose Two;
+** The spell disturbs the fabric of reality as it is cast; take -1 ongoing to cast a spell until the next time you Prepare Spells.
+** After it is cast, the spell is forgotten. You cannot cast the spell again until you prepare spells.
+** You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
+
+//''Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.''//",Move
+Subtle Cast Recharge,"//After you take a Make Camp move//, Roll+0
+
+* 10+ You regain half your maximum charges.
+* 7-9 You regain half your maximum charges but at the cost of one of your prepared spells.
+* 6- You lose all your existing charges.",Move
+Swamp,"<$list filter=""[tag[Swamp]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Swamp of Turatil,"Large Swamp, Home to the Large tameable Lizards (think Comodo Dragons), the secret of taming them is known only to the Kobolds of [[Gronzezzeg]]",Geography Swamp Kemzemkex
+Swordridge Mountains,,[[Mountain Range]] Kemzemkex Geography
+Tagenburry,"It has a Populations in the region of 7500, most of 2/3 of which are in a large ""shanty"" town outside what was the ""Town"" of Tagenburry before [[New Sorrimar]] was struck by a meteorite. It can be found on the western shore or [[Principal]].",Xavier Urban Principal City
+Teracante,"near the [[Ollicante]] has plentiful access to good wood. Was ""liberated"" by the [[Zanteran Republic]]",Town Urban Lenara [[Zanteran Republic]]
+Tern Mountains,Found on the Island of [[Silva]] Has a Plentiful supply of Gold and the Stone is easy to Quarry,[[Mountain Range]] Geography Silva
+Terranova,"on the southern island, by the mouth of the river [[Terraqua]] on the border of the jungle [[Threanata]]",Town Urban Lenara [[Empire of Zantera]]
+Terraqua,,River Geography Lenara
+The Battle of Okat-Oork,This battle took place outside [[Okat-Oork]] when the Gnomes attacked and were pushed back by (at least) the [[Okat Regulars]] as well as assorted mercenary's.,Event
+The Ecclesiocracy of Flame,"!!! Urban Locations
+<$list filter=""[tag[The Ecclesiocracy of Flame]tag[Urban]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>",[[Minor Faction]]
+The Federation of the Sentinel,"""""""
+Is an Alliance of [[Gnome]]'s joining the two towns of [[Druibar]] and [[Drumbar]].
+Is Very Hostile with the [[Kingdom of Orlon]].
+Attacked the [[Kingdom of Orlon]] (and failed 4 vs 6) at [[Okat-Oork]]
+""""""
+
+!!! Urban Locations
+<$list filter=""[tag[The Federation of the Sentinel]tag[Urban]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>",[[Minor Faction]]
+The Forest of Narl,"Large forest with Lots of good Wood, found on the Island of [[Principal]]",Forest Geography Principal
+The Great Greenhouse of Lounging,A Marvel made of Glass found in [[Tiloak]],Tiloak
+The Overlook,Castle under the control of the [[Empire of Anligit]] over looks the [[Bay of Narlon]],Castle Cobehot [[Empire of Anligit]] Urban [[Acolytes of the Great Flame]]
+The Sands of Serenity,Found to the South of [[Vulcan's Fury]] on the island of [[Cobehot]].,Cobehot Desert Geography
+Thi-Nor,Full Name is Ko-Tar-Thi-Nor-Sar-Tak-Ni,Jungle Silva Geography
+Threanata,,Jungle Geography Lenara
+Threanova,eastern side of the southern island,Town Lenara [[Empire of Zantera]] Urban
+Thursday,"<$list filter=""[tag[Thursday]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Thursday Characters,"!!! Player Characters (Thur)
+
+<$list filter=""[tag[Character]tag[Player]tag[Thursday]]+[sort[]]"">
+<$link><$view field=""title""/></$link> - <$view field=""player""/><br/>
+</$list>",Thursday
+Tiloak,"Capital City of [[Kingdom of Orlon]] Mostly Lizards, Found in the Y of the [[River Kous]]",Capital Silva Urban [[Kingdom of Orlon]]
+Tirgeth,"[img[https://nalonar.eaglesroost.org/images/tokens/Tirgeth.png]]
+
+<<GMNote ""Possible Last Breath - Large forest, Clearing, Large Stag, Spending too much time in settlements, spend more time outside of towns and citys
+
+animal companion...???
+
+Met [[Shol-Tak]] after an encounter with some pirates out of [[Ulzek-oku]] that had travelled up the [[Ulhar River]] and had a deep and philosophical conversation with him after he saw me using my skill to heal a wounded [[Komodo Dragon]] from the opposing side.
+
+While out in the swamp foraging for some food for [[Dobbie]], he saw [[Radrick]] throw a canvas wrapped bundle over the back of a pirate boat and sail off into the distance. When they (he and Dobbi) investigated they found [[Lukk]] wrapped up in sail cloth, he had been smuggled into [[Gronzezzeg]] but was unable to pay his passage so was dumped in the swamp to fend for himself.
+
+[[Rask]] is looking for a [[Komodo Dragon]] and has a great looking tattoo. She respects Dobbi for his strength and prowess and I respect her for that!
+
+Dobbi finds [[Erol]] to be amusing and as long as [[Erol]] keeps Dobbie happy [[Tirgeth]] is happy.
+"">>",Kobold Character Player Wednesday
+todo,"<$list filter=""[tag[todo]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",GMNote GMHome
+todo List for Thursday,,GMHome GMNote
+todo List for Wednesday,"# [[Tirgeth]] - Intro, a Paragraph that adds depth and talks about Dobbi, why is he called Dobbi, tell a SHORT story about dobbi, where you found him, how you got him as an AC, about his tags, Burly, Huge, Keen Senses, Fight Monsters, Stubborn, Forgetful
+# [[Maisie Starhammer]] Intro, Signature Weapon, Warhammer, Well Crafted, Ancient, Glows in the presence of Strakara, where did you get it from, when was it made, why was it made, is it Elven? (Strakara Location)
+# [[Erol]] Intro, Instrument, Bardic Lore, Arcane Art
+# [[Erol]] Bond #5
+# [[Erol]] Bond #6
+
+
+",GMNote GMHome
+Tomes re Udoka,Library in [[Komozaa-oka]],Komozaa-oka Place
+Torrak-by-Twikkun,,Jungle Cobehot Geography
+Torraku,,Town Urban Silva [[Ku Rata]]
+Tosu-Ris,,Silva Geography Forest
+Towns and City's of Nalonar,"!!! Capitals (Citys)
+<$list filter=""[tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>
+
+!!! City's
+<$list filter=""[tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>
+
+!!! Towns
+<$list filter=""[tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>
+
+!!! Villages
+<$list filter=""[tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>
+
+!!! Castles
+<$list filter=""[tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+
+!!! Ruins
+<$list filter=""[tag[Ruins]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+
+!!! Misc
+<$list filter=""[tag[Urban]!tag[Capital]!tag[City]!tag[Town]!tag[Village]!tag[Castle]!tag[Ruins]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Home
+Tronsi-oka,,City Urban Gronzezzeg Kemzemkex
+Trust in me. Just in me.,"//When you rise up and sway back and forth rhythmically while maintaining eye contact// and spend 1 hold roll + Cha
+
+* 10+ - The target slowly walks towards you taking no actions, if already in front of you, they sway back and forth in time with you. Other people attacking this target get +3 to their move roll until it takes damage. (It will not retaliate on a 7-9, it will on a +1D6.)
+* 7-9 - The target briefly locks eyes with you and starts to sway then shakes their head and snaps out of it. Other people attacking this target get +3 to their move roll until it takes damage. If it retaliates, its against you.
+* 6- - It did not work, and now they know it was you. GM Move.",Wildlife Move Snake
+Tura-oka,"Pirate Town, Home to;
+
+[[Tura-oka Map]]
+
+<$list filter=""[tag[Tura-oka]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Urban Kemzemkex Pirate
+Tura-oka Map,"<<MapMacro>>
+<<GMImage>>",Maps Kemzemkex
+Twikkun,"By the [[Torrak-by-Twikkun]], upgraded to city.",Urban Cobehot [[Confederacy of the Larne]] City
+Ulhar River,Flows South out of the [[Lerutl Hills]] past [[Muansi-oka]] and then filters out to see through the [[Swamp of Turatil]],Kemzemkex River Geography
+Ulzeg-uk,"Known for raiding the [[Empire of Zantera]]. Formal complaints to [[Gronzezzeg]] have been responded to with shrugs. ""There not our pirates, definitely not. No..,.""",Kemzemkex Organisation Nek-oku Pirate Ulzek-oku
+Ulzek-oku,"Partner to [[Nek-oku]] Pirate Town, Home to;
+
+<$list filter=""[tag[Ulzek-oku]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",Kemzemkex Pirate Urban
+Urngor Orhim,Town found on is island of [[Principal]] In the [[Hjodlikziz Urngorr]] Mountain Range is in the [[League of Glang]],Town Principal Urban [[League of Glang]]
+Usk Aulkhori,[[Radrick]] is a member and they are part of [[Narlon Bay Toll Service]],[[Narlon Bay Toll Service]]
+Valorin Mountains,,[[Mountain Range]] Geography Lenara
+Volcano,"<$list filter=""[tag[Volcano]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Votolak,on the Northern side of the Western Island of [[Silva]].,[[Kingdom of Orlon]] Town Silva Urban
+Vulcan's Fury,Southern most volcano on the island of [[Cobehot]].,Cobehot Geography Volcano
+Vulcan's Wrath,Northern most [[Volcano]] on the island of [[Cobehot]]. very near to the [[God's Foothills]],Volcano Geography Cobehot
+Wanted Poster,"Wanted, Goblin, Goes by the name of Lukk.
+
+Wanted for Casus Belli, Abduction, Sedition, Murder, Arson and Destruction of Property.
+Reward, 600 Coins Alive. 200 Coins Dead. 20 Coins for Information leading to the Arrest of.",GMNote
+Wednesday,"<$list filter=""[tag[Wednesday]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+Wednesday Characters,"!!! Player Characters (Wed)
+
+<$list filter=""[tag[Character]tag[Player]tag[Wednesday]]+[sort[]]"">
+<$link><$view field=""title""/></$link> - <$view field=""player""/><br/>
+</$list>",Wednesday
+Wetlands of Zellaak,,Swamp Geography Principal
+White Cliff Mountains,Large Central Mountain range on the island of [[Cobehot]] is a good source of Iron. The [[River Larne]] and the [[River Rath]] both flow South out of the mountains while the [[River Latch]] flows North towards the [[Canyons of Cobeham]] then out to sea,[[Mountain Range]] Geography Cobehot
+Whitetop Rocktop,"North of the [[White Cliff Mountains]].
+
+There was a deep rooted cultural argument over the name between Rocktop and Whitetop. The compromise was to use both names, in a move that satisfied nobody. With Excellent Fortifications.",Town Urban Cobehot [[Empire of Anligit]] [[Acolytes of the Great Flame]]
+Who Are You?,"<$button set=""$:/state/GMKey"" setTo="""">
+<$action-navigate $to=""GM Access Key""/>
+<$action-sendmessage $message=""tm-close-tiddler""/>
+
+GM
+
+</$button> or <$button set=""$:/state/GMKey"" setTo="""">
+<$action-sendmessage $message=""tm-close-tiddler""/>
+<$action-navigate $to=""Front Page""/>
+Not GM
+</$button>",GMImport [[Hide Close]]
+Wild Adolescent Komodo Dragon,<<NPCMacro>>,[[Komodo Dragon]] Wildlife
+Wild Adult Komodo Dragon,<<NPCMacro>>,[[Komodo Dragon]] Wildlife
+Wildlife,"<$list filter=""[tag[Wildlife]!tag[Move]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+
+!!! Animal Moves
+
+{{Wildlife Moves}}",
+Wildlife Moves,"<$list filter=""[tag[Wildlife]tag[Move]!tag[todo]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>
+<$list filter=""[tag[Wildlife]tag[Move]tag[todo]]+[sort[]]"">
+<$link><$view field=""title""/></$link><br/>
+</$list>",
+World Map,<<MapMacro>>,Home Important Maps
+Xavier,"""""""
+Found in the land of [[Principal]] mostly [[Human]]
+[[Their Capital|Narlath]] is found nestled on the [[River Macnath]] south of [[The Forest of Narl]].
+They have Very Hostile Relationship with [[League of Glang]].
+They have Very Hostile Relationship with [[Empire of Zantera]].
+They have Very Hostile Relationship with [[Kingdom of Orlon]].
+They have formed a Trade Agreement with the [[Empire of Anligit]].
+Is in an Alliance with [[Empire of Anligit]].
+Attacked (2) [[Cellaa Orhim]] which defended (5).
+""""""
+
+!!! Urban Locations
+<$list filter=""[tag[Xavier]tag[Urban]tag[Capital]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Capital) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Xavier]tag[Urban]tag[City]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (City) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Xavier]tag[Urban]tag[Town]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Town) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Xavier]tag[Urban]tag[Village]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Village) (Population <$view field=""population""/>)<br/>
+</$list>
+<$list filter=""[tag[Xavier]tag[Urban]tag[Castle]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Castle) (Population <$view field=""population""/>)<br/>
+</$list>",[[Major Faction]]
+You're coming with me now,drag under water,Wildlife Move todo
+Zaglo Kobald,wizard who like Lukk wished to leave the cult of flame to expand his own knowledge and no longer be enslaved or enprisoned. quite small and skinny but rivals Lukks own arcane prowess ,Character
+Zanova,See [[Arlinia]] this is the name it was known by and is called by the [[Empire of Zantera]],
+Zanteran Republic,"Attacked Empire of Zantera and ""liberated"" [[Teracante]]
+
+!!! Urban Locations
+<$list filter=""[tag[Zanteran Republic]tag[Urban]]+[sort[]]"">
+<$link><$view field=""title""/></$link> (Population <$view field=""population""/>)<br/>
+</$list>",[[Minor Faction]]
+Zanth,by the Iron,[[Empire of Zantera]] Urban Town Lenara
+Zegatilzeg,"Pirate Organisation, operating out of [[Tura-oka]]",Organisation Tura-oka Kemzemkex Pirate
+Zellaak Orhim,Has good access to the silks found in the marsh to the south. Now a Capital.,[[League of Glang]] Urban Principal Capital
+Zellaam,,River Geography Principal
+Zelth,on the River [[Zellaam]],Town Urban Principal Xavier
